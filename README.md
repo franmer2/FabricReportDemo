@@ -2,7 +2,7 @@
 Video of my demo creating a report on huge volume of data
 
 
-<video src='https://github.com/franmer2/FabricReportDemo/blob/main/Video/Microsoft%20Fabric%20Report%20with%20huge%20volume%20of%20data.mp4' width=360/></video>
+<video src='https://1drv.ms/v/s!Am-C-ktMH9lgg_MCdjnaGfQ6i8LFEA?e=lheMTU' width=360/></video>
 
 
 
